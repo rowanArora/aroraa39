@@ -1,0 +1,13 @@
+2023-09-21 05:59:24.801 [info] [Info  - 5:59:24 a.m.] (26868) Pylance language server 2023.9.20 (pyright 35eaeca4) starting
+2023-09-21 05:59:24.801 [info] [Info  - 5:59:24 a.m.] (26868) Server root directory: /h/u11/c1/00/aroraa39/.vscode-server/extensions/ms-python.vscode-pylance-2023.9.20/dist
+2023-09-21 05:59:24.801 [info] [Info  - 5:59:24 a.m.] (26868) Starting service instance "aroraa39"
+2023-09-21 05:59:24.851 [info] [Info  - 5:59:24 a.m.] (26868) Setting pythonPath for service "aroraa39": "/usr/local/bin/python3"
+2023-09-21 05:59:24.852 [info] [Info  - 5:59:24 a.m.] (26868) Setting pythonPath for service "aroraa39": "/usr/local/bin/python3"
+2023-09-21 05:59:24.857 [info] [Warn  - 5:59:24 a.m.] (26868) stubPath /h/u11/c1/00/aroraa39/typings is not a valid directory.
+2023-09-21 05:59:24.880 [info] [Info  - 5:59:24 a.m.] (26868) Assuming Python version 3.10
+2023-09-21 05:59:25.027 [info] [Info  - 5:59:25 a.m.] (26868) Found 2 source files
+2023-09-21 06:04:38.362 [info] [Info  - 6:04:38 a.m.] (26868) Setting pythonPath for service "aroraa39": "/usr/local/bin/python3"
+2023-09-21 06:04:38.362 [info] [Info  - 6:04:38 a.m.] (26868) Setting pythonPath for service "aroraa39": "/usr/local/bin/python3"
+2023-09-21 06:04:38.363 [info] [Warn  - 6:04:38 a.m.] (26868) stubPath /h/u11/c1/00/aroraa39/typings is not a valid directory.
+2023-09-21 06:04:38.399 [info] [Info  - 6:04:38 a.m.] (26868) Assuming Python version 3.10
+2023-09-21 06:04:38.636 [info] [Info  - 6:04:38 a.m.] (26868) Found 2 source files

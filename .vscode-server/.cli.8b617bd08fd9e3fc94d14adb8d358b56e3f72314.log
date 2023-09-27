@@ -1,0 +1,6 @@
+Listening on 127.0.0.1:39205
+[2023-09-07 16:05:32] info Disposed of connection to running server.
+looking for token 9723a99aafbf, got Some("9723a99aafbf")
+[2023-09-07 16:05:32] info Checking /h/u11/c1/00/aroraa39/.vscode-server/cli/servers/Stable-8b617bd08fd9e3fc94d14adb8d358b56e3f72314/log.txt and /h/u11/c1/00/aroraa39/.vscode-server/cli/servers/Stable-8b617bd08fd9e3fc94d14adb8d358b56e3f72314/pid.txt for a running server...
+[2023-09-07 16:05:32] info Found running server (pid=44887)
+[2023-09-07 16:27:46] info Disposed of connection to running server.

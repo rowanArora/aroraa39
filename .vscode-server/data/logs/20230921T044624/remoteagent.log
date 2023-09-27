@@ -1,0 +1,14 @@
+2023-09-21 04:46:24.547 [info] 
+
+
+
+
+2023-09-21 04:46:24.559 [info] Extension host agent started.
+2023-09-21 04:46:24.612 [error] [127.0.0.1][baf7c05d][ManagementConnection] Unknown reconnection token (never seen).
+2023-09-21 04:46:25.528 [error] [127.0.0.1][2fb97deb][ExtensionHostConnection] Unknown reconnection token (never seen).
+2023-09-21 04:46:28.612 [info] Deleted uninstalled extension from disk ms-python.vscode-pylance /h/u11/c1/00/aroraa39/.vscode-server/extensions/ms-python.vscode-pylance-2023.9.10
+2023-09-21 04:46:30.362 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-09-21 04:46:30.363 [info] Cancelling previous shutdown timeout
+2023-09-21 04:46:30.435 [info] [127.0.0.1][8044d954][ManagementConnection] New connection established.
+2023-09-21 04:46:30.436 [info] [127.0.0.1][4d70979d][ExtensionHostConnection] New connection established.
+2023-09-21 04:46:30.444 [info] [127.0.0.1][4d70979d][ExtensionHostConnection] <23154> Launched Extension Host Process.

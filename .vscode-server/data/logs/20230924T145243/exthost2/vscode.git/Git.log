@@ -1,0 +1,118 @@
+2023-09-24 17:17:53.060 [info] Log level: Info
+2023-09-24 17:17:53.060 [info] Validating found git in: "git"
+2023-09-24 17:17:53.060 [info] Using git "2.34.1" from "git"
+2023-09-24 17:17:53.060 [info] > git rev-parse --show-toplevel [7ms]
+2023-09-24 17:17:53.060 [info] fatal: not a git repository (or any parent up to mount point /h)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-24 17:17:53.060 [info] > git rev-parse --show-toplevel [4ms]
+2023-09-24 17:17:53.060 [info] fatal: not a git repository (or any parent up to mount point /h)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-24 17:17:53.060 [info] > git rev-parse --show-toplevel [10ms]
+2023-09-24 17:17:53.060 [info] fatal: not a git repository (or any parent up to mount point /h)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-24 17:17:53.060 [info] > git rev-parse --show-toplevel [1ms]
+2023-09-24 17:17:53.060 [info] fatal: not a git repository (or any parent up to mount point /h)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-24 17:17:53.060 [info] > git rev-parse --show-toplevel [7ms]
+2023-09-24 17:17:53.060 [info] fatal: not a git repository (or any parent up to mount point /h)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-24 17:17:53.060 [info] > git rev-parse --show-toplevel [8ms]
+2023-09-24 17:17:53.060 [info] fatal: not a git repository (or any parent up to mount point /h)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-24 17:17:53.060 [info] > git rev-parse --show-toplevel [3ms]
+2023-09-24 17:17:53.060 [info] fatal: not a git repository (or any parent up to mount point /h)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-24 17:17:53.060 [info] > git rev-parse --show-toplevel [22ms]
+2023-09-24 17:17:53.062 [info] > git rev-parse --git-dir --git-common-dir [8ms]
+2023-09-24 17:17:53.077 [info] Open repository: /h/u11/c1/00/aroraa39/csc369/aroraa39
+2023-09-24 17:17:53.106 [info] > git config --get commit.template [22ms]
+2023-09-24 17:17:53.152 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [24ms]
+2023-09-24 17:17:53.176 [info] > git status -z -uall [13ms]
+2023-09-24 17:17:53.215 [info] > git config --get commit.template [13ms]
+2023-09-24 17:17:53.235 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [17ms]
+2023-09-24 17:17:53.252 [info] > git status -z -uall [12ms]
+2023-09-24 17:17:53.260 [info] > git fetch [184ms]
+2023-09-24 17:17:53.260 [info] Missing or invalid credentials.
+Skip silent fetch commands
+Missing or invalid credentials.
+Skip silent fetch commands
+fatal: Authentication failed for 'https://markus.teach.cs.toronto.edu/git/2023-09/csc369/aroraa39/'
+2023-09-24 17:17:53.263 [info] > git rev-parse --show-toplevel [20ms]
+2023-09-24 17:17:53.263 [info] fatal: not a git repository (or any parent up to mount point /h)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-24 17:17:53.286 [info] > git config --get commit.template [10ms]
+2023-09-24 17:17:53.302 [info] > git rev-parse --show-toplevel [15ms]
+2023-09-24 17:17:53.302 [info] fatal: not a git repository (or any parent up to mount point /h)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-24 17:17:53.318 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [18ms]
+2023-09-24 17:17:53.327 [info] > git rev-parse --show-toplevel [22ms]
+2023-09-24 17:17:53.327 [info] fatal: not a git repository (or any parent up to mount point /h)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-24 17:17:53.335 [info] > git status -z -uall [9ms]
+2023-09-24 17:17:53.339 [info] > git rev-parse --show-toplevel [6ms]
+2023-09-24 17:17:53.339 [info] fatal: not a git repository (or any parent up to mount point /h)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-24 17:17:53.727 [info] > git show --textconv :T2/examine_ucontext.c [15ms]
+2023-09-24 17:17:53.731 [info] > git ls-files --stage -- /h/u11/c1/00/aroraa39/csc369/aroraa39/T2/examine_ucontext.c [5ms]
+2023-09-24 17:17:53.750 [info] > git cat-file -s fd48abbf5e1d55d93db81f2e43106a8b82be539e [12ms]
+2023-09-24 17:17:53.902 [info] > git check-ignore -v -z --stdin [11ms]
+2023-09-24 17:17:54.475 [info] > git check-ignore -v -z --stdin [5ms]
+2023-09-24 17:19:18.245 [info] > git rev-parse --show-toplevel [3ms]
+2023-09-24 17:19:18.246 [info] fatal: not a git repository (or any parent up to mount point /h)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-24 17:19:18.758 [info] > git check-ignore -v -z --stdin [6ms]
+2023-09-24 17:19:20.314 [info] > git show --textconv HEAD:T2/examine_ucontext.c [8ms]
+2023-09-24 17:19:20.317 [info] > git ls-tree -l HEAD -- /h/u11/c1/00/aroraa39/csc369/aroraa39/T2/examine_ucontext.c [4ms]
+2023-09-24 17:19:22.362 [info] > git add -A -- /h/u11/c1/00/aroraa39/csc369/aroraa39/T2/examine_ucontext.c [18ms]
+2023-09-24 17:19:22.372 [info] > git config --get commit.template [6ms]
+2023-09-24 17:19:22.377 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2023-09-24 17:19:22.390 [info] > git status -z -uall [9ms]
+2023-09-24 17:19:23.546 [info] > git config --get commit.template [7ms]
+2023-09-24 17:19:23.549 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-09-24 17:19:23.560 [info] > git status -z -uall [6ms]
+2023-09-24 17:19:23.650 [info] > git ls-files --stage -- /h/u11/c1/00/aroraa39/csc369/aroraa39/T2/examine_ucontext.c [5ms]
+2023-09-24 17:19:23.655 [info] > git ls-files --stage -- /h/u11/c1/00/aroraa39/csc369/aroraa39/T2/examine_ucontext.c [5ms]
+2023-09-24 17:19:23.660 [info] > git cat-file -s 1a2d3a60633477f237d8b46018fc4fbff8da1f80 [5ms]
+2023-09-24 17:19:23.668 [info] > git cat-file -s 1a2d3a60633477f237d8b46018fc4fbff8da1f80 [8ms]
+2023-09-24 17:19:23.686 [info] > git show --textconv :T2/examine_ucontext.c [5ms]
+2023-09-24 17:19:23.691 [info] > git show --textconv :T2/examine_ucontext.c [6ms]
+2023-09-24 17:19:28.574 [info] > git config --get commit.template [6ms]
+2023-09-24 17:19:28.578 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-09-24 17:19:28.588 [info] > git status -z -uall [5ms]
+2023-09-24 17:19:29.331 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [41ms]
+2023-09-24 17:19:29.338 [info] > git config --get commit.template [3ms]
+2023-09-24 17:19:29.349 [info] > git config --get commit.template [6ms]
+2023-09-24 17:19:29.357 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2023-09-24 17:19:29.368 [info] > git status -z -uall [6ms]
+2023-09-24 17:19:30.644 [info] > git ls-files --stage -- /h/u11/c1/00/aroraa39/csc369/aroraa39/T2/examine_ucontext.c [7ms]
+2023-09-24 17:19:30.649 [info] > git ls-tree -l HEAD -- /h/u11/c1/00/aroraa39/csc369/aroraa39/T2/examine_ucontext.c [6ms]
+2023-09-24 17:19:30.655 [info] > git cat-file -s 1a2d3a60633477f237d8b46018fc4fbff8da1f80 [6ms]
+2023-09-24 17:19:30.671 [info] > git show --textconv HEAD:T2/examine_ucontext.c [12ms]
+2023-09-24 17:19:30.674 [info] > git show --textconv :T2/examine_ucontext.c [4ms]
+2023-09-24 17:19:32.873 [info] > git ls-tree -l HEAD -- /h/u11/c1/00/aroraa39/csc369/aroraa39/T2/examine_ucontext.c [6ms]
+2023-09-24 17:19:36.119 [info] > git push origin master:master [6740ms]
+2023-09-24 17:19:36.119 [info] remote: [MarkUs] Your submission has been received: master@{Sun Sep 24 17:19:36 2023}        
+To https://markus.teach.cs.toronto.edu/git/2023-09/csc369/aroraa39
+   2ac481d..de6c30e  master -> master
+2023-09-24 17:19:36.138 [info] > git config --get commit.template [7ms]
+2023-09-24 17:19:36.141 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2023-09-24 17:19:36.153 [info] > git status -z -uall [4ms]
+2023-09-24 17:19:36.238 [info] > git config --get commit.template [9ms]
+2023-09-24 17:19:36.241 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-09-24 17:19:36.251 [info] > git status -z -uall [3ms]
+2023-09-24 17:19:37.318 [info] > git config --get commit.template [9ms]
+2023-09-24 17:19:37.321 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-09-24 17:19:37.342 [info] > git status -z -uall [11ms]
+2023-09-24 17:19:37.420 [info] > git ls-files --stage -- /h/u11/c1/00/aroraa39/csc369/aroraa39/T2/examine_ucontext.c [6ms]
+2023-09-24 17:19:37.426 [info] > git ls-tree -l HEAD -- /h/u11/c1/00/aroraa39/csc369/aroraa39/T2/examine_ucontext.c [6ms]
+2023-09-24 17:19:37.428 [info] > git cat-file -s 1a2d3a60633477f237d8b46018fc4fbff8da1f80 [3ms]
+2023-09-24 17:19:37.449 [info] > git show --textconv HEAD:T2/examine_ucontext.c [10ms]
+2023-09-24 17:19:37.450 [info] > git show --textconv :T2/examine_ucontext.c [3ms]
+2023-09-24 17:19:52.129 [info] > git ls-tree -l HEAD -- /h/u11/c1/00/aroraa39/csc369/aroraa39/T2/examine_ucontext.c [8ms]
+2023-09-24 17:19:52.147 [info] > git config --get commit.template [17ms]
+2023-09-24 17:19:52.147 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2023-09-24 17:19:52.162 [info] > git status -z -uall [8ms]
+2023-09-24 17:20:01.051 [info] > git ls-tree -l HEAD -- /h/u11/c1/00/aroraa39/csc369/aroraa39/T2/examine_ucontext.c [4ms]
+2023-09-24 17:21:01.631 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2023-09-24 17:21:01.633 [info] > git config --get commit.template [16ms]
+2023-09-24 17:21:01.652 [info] > git status -z -uall [13ms]

@@ -1,0 +1,5 @@
+# $Header: /admin/cvsroot/cdf/local.share/cdf/skel/.logout,v 1.4 2002/09/25 02:10:33 agenkin Exp $
+# Default .logout script for CSC students, whose login shell is Tcsh.
+# Run once, when you log out.
+
+# If you want any commands to be run at log out, place them here.

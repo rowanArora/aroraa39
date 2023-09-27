@@ -1,0 +1,11 @@
+2023-09-27 01:56:55.577 [info] 
+
+
+
+
+2023-09-27 01:56:55.588 [info] Extension host agent started.
+2023-09-27 01:56:55.639 [info] [127.0.0.1][6afc075d][ManagementConnection] New connection established.
+2023-09-27 01:56:55.650 [info] [127.0.0.1][d70f16ff][ExtensionHostConnection] New connection established.
+2023-09-27 01:56:55.726 [info] [127.0.0.1][d70f16ff][ExtensionHostConnection] <34157> Launched Extension Host Process.
+2023-09-27 01:57:08.001 [error] Error: EBUSY: resource busy or locked, unlink '/h/u11/c1/00/aroraa39/.vscode-server/data/logs/20230920T212918/.nfs000000000c603e83000107f6'
+2023-09-27 02:01:55.589 [info] New EH opened, aborting shutdown

@@ -1,0 +1,10 @@
+# $Header: /admin/cvsroot/cdf/local.share/cdf/skel/.mailrc,v 1.4 2019/08/28 21:49:08 agenkin Exp $
+# Default mailrc files for CSC students. This is a configuration file
+# for the "mail" program. See "man Mail" for more details.
+
+# Turn on asking for cc: at end of message
+set ask askcc
+
+# set editor variables
+set EDITOR=ed
+set VISUAL=vi

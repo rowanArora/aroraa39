@@ -1,0 +1,108 @@
+2023-09-27 01:57:03.394 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-09-27 01:57:03.394 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-09-27 01:57:03.394 [info] Experiment 'pythonSurveyNotificationcf' is active
+2023-09-27 01:57:03.394 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2023-09-27 01:57:03.394 [info] Experiment 'pythonTestAdapter' is active
+2023-09-27 01:57:03.394 [info] Test server listening.
+2023-09-27 01:57:03.394 [info] Python interpreter path: /usr/local/bin/python3
+2023-09-27 01:57:04.795 [info] Starting Pylance language server.
+2023-09-27 02:01:42.136 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 02:08:01.174 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 02:08:05.878 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 02:08:56.447 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 02:10:17.610 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 02:14:59.220 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 02:16:09.036 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 02:17:01.028 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 02:17:16.268 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 02:18:35.837 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 02:23:15.581 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 02:23:52.969 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 02:23:57.420 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 02:24:00.335 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 02:24:03.152 [info] Send text to terminal: /usr/local/bin/python3 /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 02:24:19.727 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 02:24:21.726 [info] Send text to terminal: /usr/local/bin/python3 /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 02:24:50.011 [info] Send text to terminal: /usr/local/bin/python3 /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 02:26:14.452 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 02:27:30.923 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 02:27:49.747 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 02:28:04.959 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 02:30:24.145 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 02:30:38.306 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 02:31:29.958 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 02:31:58.574 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 02:32:16.678 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 02:32:27.089 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 02:36:08.276 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 02:36:17.852 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 02:37:19.533 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 02:37:30.249 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 02:37:33.101 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 02:39:06.988 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 02:39:59.280 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 02:50:14.700 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 02:51:24.661 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 02:51:29.277 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 02:52:15.011 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 02:52:38.371 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 02:53:16.914 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 02:53:46.982 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 02:53:57.666 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 02:55:15.286 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 02:55:53.926 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:01:11.321 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:01:42.745 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:02:35.539 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:02:45.499 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:04:09.002 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:04:25.117 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:04:43.173 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:04:57.859 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:09:32.366 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:10:17.232 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:13:56.596 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:18:52.073 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:21:00.644 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:21:44.092 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:22:58.622 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:23:42.352 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:23:55.057 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:26:25.373 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:26:58.382 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:35:31.817 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:37:51.402 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:38:32.913 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:39:41.620 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:43:36.132 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:45:56.968 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:46:12.961 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:46:15.745 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:46:40.149 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:47:15.365 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:47:23.942 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:47:34.252 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:48:24.048 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:48:37.139 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:48:44.119 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:48:50.512 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:49:10.600 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:49:35.103 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:49:56.269 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:50:06.972 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:50:19.037 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:51:54.723 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:56:24.953 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:57:07.321 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:57:09.761 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:57:29.398 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:59:04.704 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 03:59:44.611 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 04:03:14.468 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 04:03:21.169 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 04:03:37.833 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 04:05:24.693 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 04:07:05.752 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 04:07:43.900 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 04:10:26.369 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py
+2023-09-27 04:10:37.946 [info] Discover tests for workspace name: aroraa39 - uri: /h/u11/c1/00/aroraa39/csc311/A1/hw1_code.py

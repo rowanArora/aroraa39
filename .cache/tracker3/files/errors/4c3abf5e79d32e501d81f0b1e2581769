@@ -1,0 +1,4 @@
+[Report]
+Uri=file:///usr/share/applications/CurzqlKl
+Message=no such table: Resource
+Sparql=DELETE {   GRAPH tracker:FileSystem {    ?f a rdfs:Resource .   }  GRAPH ?g {    ?f a rdfs:Resource .     ?ie a rdfs:Resource .   }} WHERE {  GRAPH tracker:FileSystem {    ?f a rdfs:Resource ;        nie:url ?u .   }  GRAPH ?g {    ?f a rdfs:Resource .     OPTIONAL { ?ie nie:isStoredAs ?f } .   }  FILTER (STRSTARTS (?u, "file:///usr/share/applications/CurzqlKl/"))}

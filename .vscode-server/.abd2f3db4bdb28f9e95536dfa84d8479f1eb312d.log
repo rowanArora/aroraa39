@@ -1,0 +1,27 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to 127.0.0.1:43827 (IPv4)
+Extension host agent listening on 43827
+
+[01:56:55] 
+
+
+
+
+[01:56:55] Extension host agent started.
+[01:56:55] [127.0.0.1][6afc075d][ManagementConnection] New connection established.
+[01:56:55] [127.0.0.1][d70f16ff][ExtensionHostConnection] New connection established.
+[01:56:55] [127.0.0.1][d70f16ff][ExtensionHostConnection] <34157> Launched Extension Host Process.
+[01:57:08] [Error: EBUSY: resource busy or locked, unlink '/h/u11/c1/00/aroraa39/.vscode-server/data/logs/20230920T212918/.nfs000000000c603e83000107f6'] {
+  errno: -16,
+  code: 'EBUSY',
+  syscall: 'unlink',
+  path: '/h/u11/c1/00/aroraa39/.vscode-server/data/logs/20230920T212918/.nfs000000000c603e83000107f6'
+}
+New EH opened, aborting shutdown
+[02:01:55] New EH opened, aborting shutdown

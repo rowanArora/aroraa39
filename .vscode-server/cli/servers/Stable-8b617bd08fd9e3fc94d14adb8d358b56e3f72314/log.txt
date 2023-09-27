@@ -1,0 +1,32 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to /tmp/code-5489b264-7a83-4285-ae55-270150a8eb99
+Extension host agent listening on /tmp/code-5489b264-7a83-4285-ae55-270150a8eb99
+
+[16:05:16] 
+
+
+
+
+[16:05:16] Extension host agent started.
+[16:05:16] Started initializing default profile extensions in extensions installation folder. file:///h/u11/c1/00/aroraa39/.vscode-server/extensions
+[16:05:16] Completed initializing default profile extensions in extensions installation folder. file:///h/u11/c1/00/aroraa39/.vscode-server/extensions
+[16:05:16] [<unknown>][9db1263f][ExtensionHostConnection] New connection established.
+[16:05:16] [<unknown>][a37e0de1][ManagementConnection] New connection established.
+[16:05:16] [<unknown>][9db1263f][ExtensionHostConnection] <44917> Launched Extension Host Process.
+[16:05:32] [<unknown>][9e1c44d4][ManagementConnection] New connection established.
+[16:05:32] [<unknown>][e66af8ec][ExtensionHostConnection] New connection established.
+[16:05:32] [<unknown>][e66af8ec][ExtensionHostConnection] <45174> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[16:10:16] New EH opened, aborting shutdown
+[16:10:37] [<unknown>][9db1263f][ExtensionHostConnection] <44917> Extension Host Process exited with code: 0, signal: null.
+[19:28:02] [<unknown>][e66af8ec][ExtensionHostConnection] <45174> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[19:28:02] Last EH closed, waiting before shutting down
+Last EH closed, shutting down
+[19:33:02] Last EH closed, shutting down

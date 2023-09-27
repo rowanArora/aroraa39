@@ -1,0 +1,98 @@
+2023-09-22 18:58:21.388 [info] Log level: Info
+2023-09-22 18:58:21.388 [info] Validating found git in: "git"
+2023-09-22 18:58:21.388 [info] Using git "2.34.1" from "git"
+2023-09-22 18:58:21.388 [info] > git rev-parse --show-toplevel [3ms]
+2023-09-22 18:58:21.388 [info] fatal: not a git repository (or any parent up to mount point /h)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-22 18:58:21.388 [info] > git rev-parse --show-toplevel [3ms]
+2023-09-22 18:58:21.388 [info] > git rev-parse --git-dir --git-common-dir [4ms]
+2023-09-22 18:58:21.388 [info] Open repository: /h/u11/c1/00/aroraa39/csc369/aroraa39
+2023-09-22 18:58:21.388 [info] > git config --get commit.template [5ms]
+2023-09-22 18:58:21.388 [info] > git rev-parse --show-toplevel [7ms]
+2023-09-22 18:58:21.388 [info] fatal: not a git repository (or any parent up to mount point /h)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-22 18:58:21.388 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2023-09-22 18:58:21.388 [info] > git rev-parse --show-toplevel [7ms]
+2023-09-22 18:58:21.388 [info] fatal: not a git repository (or any parent up to mount point /h)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-22 18:58:21.388 [info] > git status -z -uall [8ms]
+2023-09-22 18:58:21.388 [info] > git rev-parse --show-toplevel [11ms]
+2023-09-22 18:58:21.388 [info] fatal: not a git repository (or any parent up to mount point /h)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-22 18:58:21.395 [info] > git config --get commit.template [9ms]
+2023-09-22 18:58:21.403 [info] > git rev-parse --show-toplevel [9ms]
+2023-09-22 18:58:21.403 [info] fatal: not a git repository (or any parent up to mount point /h)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-22 18:58:21.427 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [25ms]
+2023-09-22 18:58:21.444 [info] > git status -z -uall [9ms]
+2023-09-22 18:58:21.445 [info] > git rev-parse --show-toplevel [18ms]
+2023-09-22 18:58:21.445 [info] fatal: not a git repository (or any parent up to mount point /h)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-22 18:58:21.459 [info] > git rev-parse --show-toplevel [3ms]
+2023-09-22 18:58:21.459 [info] fatal: not a git repository (or any parent up to mount point /h)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-22 18:58:21.461 [info] > git fetch [119ms]
+2023-09-22 18:58:21.461 [info] Missing or invalid credentials.
+Skip silent fetch commands
+Missing or invalid credentials.
+Skip silent fetch commands
+fatal: Authentication failed for 'https://markus.teach.cs.toronto.edu/git/2023-09/csc369/aroraa39/'
+2023-09-22 18:58:21.472 [info] > git config --get commit.template [5ms]
+2023-09-22 18:58:21.476 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-09-22 18:58:21.486 [info] > git status -z -uall [5ms]
+2023-09-22 18:58:21.989 [info] > git show --textconv :T1/queue.c [15ms]
+2023-09-22 18:58:21.989 [info] > git ls-files --stage -- /h/u11/c1/00/aroraa39/csc369/aroraa39/T1/queue.c [8ms]
+2023-09-22 18:58:21.999 [info] > git cat-file -s 9ec569e97eceb247a375be8ec9f19bd3bf909ecb [3ms]
+2023-09-22 18:58:22.072 [info] > git check-ignore -v -z --stdin [2ms]
+2023-09-22 18:59:34.806 [info] > git config --get commit.template [10ms]
+2023-09-22 18:59:34.810 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2023-09-22 18:59:34.828 [info] > git status -z -uall [9ms]
+2023-09-22 19:02:14.009 [info] > git check-ignore -v -z --stdin [4ms]
+2023-09-22 19:02:39.339 [info] > git show --textconv :T1/defines.h [12ms]
+2023-09-22 19:02:39.341 [info] > git ls-files --stage -- /h/u11/c1/00/aroraa39/csc369/aroraa39/T1/defines.h [3ms]
+2023-09-22 19:02:39.352 [info] > git cat-file -s ae2ac263114c053a286dc5b1d177c577fa50870f [2ms]
+2023-09-22 19:04:02.072 [info] > git config --get commit.template [11ms]
+2023-09-22 19:04:02.079 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2023-09-22 19:04:02.092 [info] > git status -z -uall [4ms]
+2023-09-22 19:04:07.117 [info] > git config --get commit.template [13ms]
+2023-09-22 19:04:07.121 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2023-09-22 19:04:07.134 [info] > git status -z -uall [5ms]
+2023-09-22 19:06:09.097 [info] > git config --get commit.template [8ms]
+2023-09-22 19:06:09.100 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-09-22 19:06:09.113 [info] > git status -z -uall [5ms]
+2023-09-22 19:07:48.097 [info] > git config --get commit.template [12ms]
+2023-09-22 19:07:48.101 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-09-22 19:07:48.113 [info] > git status -z -uall [5ms]
+2023-09-22 19:08:51.854 [info] > git config --get commit.template [10ms]
+2023-09-22 19:08:51.859 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2023-09-22 19:08:51.878 [info] > git status -z -uall [9ms]
+2023-09-22 19:09:40.529 [info] > git config --get commit.template [12ms]
+2023-09-22 19:09:40.532 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-09-22 19:09:40.545 [info] > git status -z -uall [4ms]
+2023-09-22 19:10:00.287 [info] > git config --get commit.template [10ms]
+2023-09-22 19:10:00.293 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2023-09-22 19:10:00.306 [info] > git status -z -uall [7ms]
+2023-09-22 19:10:18.047 [info] > git config --get commit.template [12ms]
+2023-09-22 19:10:18.052 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2023-09-22 19:10:18.066 [info] > git status -z -uall [5ms]
+2023-09-22 19:11:39.021 [info] > git config --get commit.template [10ms]
+2023-09-22 19:11:39.026 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2023-09-22 19:11:39.043 [info] > git status -z -uall [8ms]
+2023-09-22 19:13:53.524 [info] > git config --get commit.template [8ms]
+2023-09-22 19:13:53.528 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-09-22 19:13:53.543 [info] > git status -z -uall [7ms]
+2023-09-22 19:13:58.565 [info] > git config --get commit.template [9ms]
+2023-09-22 19:13:58.569 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-09-22 19:13:58.583 [info] > git status -z -uall [5ms]
+2023-09-22 19:14:03.606 [info] > git config --get commit.template [10ms]
+2023-09-22 19:14:03.609 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-09-22 19:14:03.622 [info] > git status -z -uall [5ms]
+2023-09-22 19:14:55.932 [info] > git config --get commit.template [10ms]
+2023-09-22 19:14:55.938 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2023-09-22 19:14:55.955 [info] > git status -z -uall [9ms]
+2023-09-22 19:15:04.823 [info] > git config --get commit.template [9ms]
+2023-09-22 19:15:04.826 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-09-22 19:15:04.838 [info] > git status -z -uall [5ms]
+2023-09-22 19:16:20.796 [info] > git config --get commit.template [10ms]
+2023-09-22 19:16:20.801 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2023-09-22 19:16:20.816 [info] > git status -z -uall [7ms]

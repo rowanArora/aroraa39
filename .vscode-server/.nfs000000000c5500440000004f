@@ -1,0 +1,8 @@
+Listening on 127.0.0.1:43501
+[2023-09-07 16:05:04] info Disposed of connection to running server.
+looking for token a40720ba4c85, got Some("a40720ba4c85")
+[2023-09-07 16:05:04] info Checking /h/u11/c1/00/aroraa39/.vscode-server/cli/servers/Stable-8b617bd08fd9e3fc94d14adb8d358b56e3f72314/log.txt and /h/u11/c1/00/aroraa39/.vscode-server/cli/servers/Stable-8b617bd08fd9e3fc94d14adb8d358b56e3f72314/pid.txt for a running server...
+[2023-09-07 16:05:04] info Downloading Visual Studio Code server -> /tmp/.tmpICzp63/vscode-server-linux-x64.tar.gz
+[2023-09-07 16:05:16] info Starting server...
+[2023-09-07 16:05:16] info Server started
+[2023-09-07 16:05:24] info Disposed of connection to running server.

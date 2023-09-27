@@ -1,0 +1,53 @@
+2023-09-22 18:58:19.674 [info] 
+
+
+
+
+2023-09-22 18:58:19.686 [info] Extension host agent started.
+2023-09-22 18:58:19.783 [info] [127.0.0.1][510a74e0][ManagementConnection] New connection established.
+2023-09-22 18:58:19.850 [info] [127.0.0.1][108294b2][ExtensionHostConnection] New connection established.
+2023-09-22 18:58:19.936 [info] [127.0.0.1][108294b2][ExtensionHostConnection] <9374> Launched Extension Host Process.
+2023-09-22 19:03:19.687 [info] New EH opened, aborting shutdown
+2023-09-22 19:38:13.442 [info] [127.0.0.1][cbf344e6][ManagementConnection] New connection established.
+2023-09-22 19:38:13.443 [info] [127.0.0.1][0a3aed31][ExtensionHostConnection] New connection established.
+2023-09-22 19:38:13.453 [info] [127.0.0.1][0a3aed31][ExtensionHostConnection] <23177> Launched Extension Host Process.
+2023-09-22 19:43:18.654 [info] [127.0.0.1][108294b2][ExtensionHostConnection] <9374> Extension Host Process exited with code: 0, signal: null.
+2023-09-22 20:18:59.505 [info] [127.0.0.1][cbf344e6][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-09-22 20:18:59.507 [error] Error: Throttler is disposed
+    at c.queue (/h/u11/c1/00/aroraa39/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /h/u11/c1/00/aroraa39/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /h/u11/c1/00/aroraa39/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-22 20:18:59.509 [error] Error: Throttler is disposed
+    at c.queue (/h/u11/c1/00/aroraa39/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /h/u11/c1/00/aroraa39/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /h/u11/c1/00/aroraa39/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+2023-09-22 20:18:59.509 [error] Error: Throttler is disposed
+    at c.queue (/h/u11/c1/00/aroraa39/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /h/u11/c1/00/aroraa39/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /h/u11/c1/00/aroraa39/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+2023-09-22 20:18:59.510 [error] Error: Throttler is disposed
+    at c.queue (/h/u11/c1/00/aroraa39/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /h/u11/c1/00/aroraa39/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /h/u11/c1/00/aroraa39/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+2023-09-22 20:18:59.511 [error] Error: Throttler is disposed
+    at c.queue (/h/u11/c1/00/aroraa39/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /h/u11/c1/00/aroraa39/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /h/u11/c1/00/aroraa39/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+2023-09-22 20:18:59.511 [error] Error: Throttler is disposed
+    at c.queue (/h/u11/c1/00/aroraa39/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /h/u11/c1/00/aroraa39/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /h/u11/c1/00/aroraa39/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+2023-09-22 20:18:59.511 [error] Error: Throttler is disposed
+    at c.queue (/h/u11/c1/00/aroraa39/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /h/u11/c1/00/aroraa39/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /h/u11/c1/00/aroraa39/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+2023-09-22 20:18:59.512 [error] Error: Throttler is disposed
+    at c.queue (/h/u11/c1/00/aroraa39/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /h/u11/c1/00/aroraa39/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /h/u11/c1/00/aroraa39/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+2023-09-22 20:19:04.550 [info] [127.0.0.1][0a3aed31][ExtensionHostConnection] <23177> Extension Host Process exited with code: 0, signal: null.
+2023-09-22 20:19:04.550 [info] Last EH closed, waiting before shutting down
+2023-09-22 20:24:04.553 [info] Last EH closed, shutting down

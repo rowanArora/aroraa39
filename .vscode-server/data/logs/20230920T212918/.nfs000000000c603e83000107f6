@@ -1,0 +1,29 @@
+2023-09-20 21:29:18.141 [info] 
+
+
+
+
+2023-09-20 21:29:18.153 [info] Extension host agent started.
+2023-09-20 21:29:18.205 [info] [127.0.0.1][4e4908ae][ManagementConnection] New connection established.
+2023-09-20 21:29:18.215 [info] [127.0.0.1][8b5c7509][ExtensionHostConnection] New connection established.
+2023-09-20 21:29:18.275 [info] [127.0.0.1][8b5c7509][ExtensionHostConnection] <8937> Launched Extension Host Process.
+2023-09-20 21:29:21.369 [info] Getting Manifest... ms-python.vscode-pylance
+2023-09-20 21:29:21.468 [info] Installing extension: ms-python.vscode-pylance
+2023-09-20 21:29:21.768 [info] Getting Manifest... ms-python.python
+2023-09-20 21:29:23.485 [warning] Extension signature verification failed with error 'ENOENT': ms-python.vscode-pylance
+2023-09-20 21:29:37.012 [info] Extracted extension to file:///h/u11/c1/00/aroraa39/.vscode-server/extensions/ms-python.vscode-pylance-2023.9.20: ms-python.vscode-pylance
+2023-09-20 21:29:37.017 [info] Renamed to /h/u11/c1/00/aroraa39/.vscode-server/extensions/ms-python.vscode-pylance-2023.9.20
+2023-09-20 21:29:37.020 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-09-20 21:29:37.026 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-09-20 21:29:37.031 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.9.10
+2023-09-20 21:34:18.154 [info] New EH opened, aborting shutdown
+2023-09-20 22:31:09.116 [info] [127.0.0.1][8b5c7509][ExtensionHostConnection] The client has reconnected.
+2023-09-20 22:34:15.696 [info] [127.0.0.1][0ad870b8][ExtensionHostConnection] New connection established.
+2023-09-20 22:34:15.707 [info] [127.0.0.1][0ad870b8][ExtensionHostConnection] <25181> Launched Extension Host Process.
+2023-09-20 22:34:15.709 [info] [127.0.0.1][7b2a20ad][ManagementConnection] New connection established.
+2023-09-20 22:39:20.875 [info] [127.0.0.1][8b5c7509][ExtensionHostConnection] <8937> Extension Host Process exited with code: 0, signal: null.
+2023-09-21 01:10:31.533 [info] [127.0.0.1][0ad870b8][ExtensionHostConnection] The client has reconnected.
+2023-09-21 01:55:51.450 [info] [127.0.0.1][baf7c05d][ManagementConnection] New connection established.
+2023-09-21 01:55:51.451 [info] [127.0.0.1][2fb97deb][ExtensionHostConnection] New connection established.
+2023-09-21 01:55:51.463 [info] [127.0.0.1][2fb97deb][ExtensionHostConnection] <43915> Launched Extension Host Process.
+2023-09-21 02:00:56.729 [info] [127.0.0.1][0ad870b8][ExtensionHostConnection] <25181> Extension Host Process exited with code: 0, signal: null.

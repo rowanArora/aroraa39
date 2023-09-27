@@ -1,0 +1,7 @@
+Username: aroraa39
+Password: gozqip-Xesfe2-dymfyz
+Connect to Database Command: psql csc343h-aroraa39
+Useful PSQL Commands:
+    \d : Show description of a specific table - use 'q' to go back to the prompt. If no table is specified, this command displays all the tables.
+    \q: quit psql
+    \i <filename>: Run the SQL commands in the specified file

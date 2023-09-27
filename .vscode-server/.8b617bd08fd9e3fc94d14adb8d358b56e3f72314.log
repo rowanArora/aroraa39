@@ -1,0 +1,125 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to 127.0.0.1:39223 (IPv4)
+Extension host agent listening on 39223
+
+[19:51:52] 
+
+
+
+
+[19:51:52] Extension host agent started.
+[19:51:52] [127.0.0.1][2dc23de2][ManagementConnection] New connection established.
+[19:51:52] [127.0.0.1][e1e8ba92][ExtensionHostConnection] New connection established.
+[19:51:52] [127.0.0.1][e1e8ba92][ExtensionHostConnection] <20901> Launched Extension Host Process.
+[19:51:56] [127.0.0.1][2dc23de2][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[19:51:56] Error: Throttler is disposed
+    at c.queue (/h/u11/c1/00/aroraa39/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /h/u11/c1/00/aroraa39/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /h/u11/c1/00/aroraa39/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+Got delay-shutdown request while in shutdown timeout, delaying
+[19:51:59] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[19:51:59] Cancelling previous shutdown timeout
+[19:51:59] [127.0.0.1][79793c27][ManagementConnection] New connection established.
+[19:51:59] [127.0.0.1][9cc81523][ExtensionHostConnection] New connection established.
+[19:51:59] [127.0.0.1][9cc81523][ExtensionHostConnection] <21084> Launched Extension Host Process.
+[19:52:01] [127.0.0.1][e1e8ba92][ExtensionHostConnection] <20901> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[19:52:01] Cancelling previous shutdown timeout
+[19:52:35] Getting Manifest... ms-python.python
+[19:52:35] Installing extension: ms-python.python
+[19:52:35] Getting Manifest... ms-python.vscode-pylance
+[19:52:35] Installing extension: ms-python.vscode-pylance ms-python.python
+[19:52:36] Extension signature verification failed with error 'ENOENT': ms-python.python
+[19:52:43] Extracted extension to file:///h/u11/c1/00/aroraa39/.vscode-server/extensions/ms-python.python-2023.16.0: ms-python.python
+[19:52:43] Renamed to /h/u11/c1/00/aroraa39/.vscode-server/extensions/ms-python.python-2023.16.0
+[19:52:43] Extracting extension completed. ms-python.python
+[19:52:44] Extension signature verification failed with error 'ENOENT': ms-python.vscode-pylance
+[19:52:58] Extracted extension to file:///h/u11/c1/00/aroraa39/.vscode-server/extensions/ms-python.vscode-pylance-2023.9.10: ms-python.vscode-pylance
+[19:52:58] Renamed to /h/u11/c1/00/aroraa39/.vscode-server/extensions/ms-python.vscode-pylance-2023.9.10
+[19:52:58] Extracting extension completed. ms-python.vscode-pylance
+[19:52:58] Extension installed successfully: ms-python.python
+[19:52:58] Extension installed successfully: ms-python.vscode-pylance
+[20:33:02] [127.0.0.1][79793c27][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[20:33:02] Error: Throttler is disposed
+    at c.queue (/h/u11/c1/00/aroraa39/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /h/u11/c1/00/aroraa39/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /h/u11/c1/00/aroraa39/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+[20:33:02] Error: Throttler is disposed
+    at c.queue (/h/u11/c1/00/aroraa39/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /h/u11/c1/00/aroraa39/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /h/u11/c1/00/aroraa39/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+[20:33:02] Error: Throttler is disposed
+    at c.queue (/h/u11/c1/00/aroraa39/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /h/u11/c1/00/aroraa39/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /h/u11/c1/00/aroraa39/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+[20:33:02] Error: Throttler is disposed
+    at c.queue (/h/u11/c1/00/aroraa39/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /h/u11/c1/00/aroraa39/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /h/u11/c1/00/aroraa39/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+[20:33:02] Error: Throttler is disposed
+    at c.queue (/h/u11/c1/00/aroraa39/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /h/u11/c1/00/aroraa39/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /h/u11/c1/00/aroraa39/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+[20:33:02] Error: Throttler is disposed
+    at c.queue (/h/u11/c1/00/aroraa39/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /h/u11/c1/00/aroraa39/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /h/u11/c1/00/aroraa39/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+[20:33:02] Error: Throttler is disposed
+    at c.queue (/h/u11/c1/00/aroraa39/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /h/u11/c1/00/aroraa39/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /h/u11/c1/00/aroraa39/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+[20:33:02] Error: Throttler is disposed
+    at c.queue (/h/u11/c1/00/aroraa39/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /h/u11/c1/00/aroraa39/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /h/u11/c1/00/aroraa39/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+[20:33:02] Error: Throttler is disposed
+    at c.queue (/h/u11/c1/00/aroraa39/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /h/u11/c1/00/aroraa39/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /h/u11/c1/00/aroraa39/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+[20:33:02] Error: Throttler is disposed
+    at c.queue (/h/u11/c1/00/aroraa39/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /h/u11/c1/00/aroraa39/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /h/u11/c1/00/aroraa39/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+[20:33:02] Error: Throttler is disposed
+    at c.queue (/h/u11/c1/00/aroraa39/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:13632)
+    at /h/u11/c1/00/aroraa39/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:15216
+    at /h/u11/c1/00/aroraa39/.vscode-server/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/out/vs/server/node/server.main.js:70:14852
+[20:33:07] [127.0.0.1][9cc81523][ExtensionHostConnection] <21084> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[20:33:07] Last EH closed, waiting before shutting down
+Last EH closed, shutting down
+[20:38:07] Last EH closed, shutting down

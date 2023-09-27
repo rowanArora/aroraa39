@@ -1,0 +1,10 @@
+{
+    "explorer.confirmDelete": false,
+    "git.confirmSync": false,
+    "explorer.confirmDragAndDrop": false,
+    "git.suggestSmartCommit": false,
+    "git.autofetch": true,
+    "debug.onTaskErrors": "showErrors",
+    "security.workspace.trust.untrustedFiles": "open",
+    "git.openRepositoryInParentFolders": "never"
+}

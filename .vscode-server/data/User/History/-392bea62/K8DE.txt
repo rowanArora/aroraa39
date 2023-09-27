@@ -1,0 +1,69 @@
+-- Schema and relations for Assignment 1.
+
+drop schema if exists Museum cascade;
+create schema Museum;
+set search_path to Museum;
+
+create table Object(
+    CN integer primary key,
+    date varchar(10) not null,
+    name varchar(100) not null,
+    description varchar(10000) not null,
+    type varchar(100) not null,
+    length integer,
+    width integer,
+    height integer,
+    value integer,
+    who integer
+);
+
+create table Tag(
+    CN integer,
+    phrase varchar(100) not null,
+    primary key (CN, phrase)
+);
+
+create table Donor(
+    DID integer primary key,
+    surname varchar(100) not null,
+    firstname varchar(100) not null,
+    address varchar(100) not null,
+    email varchar(100) not null
+);
+
+create table Donation(
+    NID integer primary key,
+    date varchar(10) not null,
+    DID integer
+);
+
+create table Contains(
+    NID integer,
+    CN integer primary key
+);
+
+create table Staff(
+    SID integer primary key,
+    surname varchar(100) not null,
+    firstname varchar(100) not null,
+    address varchar(100) not null,
+    email varchar(100) not null,
+    type varchar(100) not null,
+    date varchar(10) not null
+);
+
+create table Supervises(
+
+);
+
+create table Chenhall(
+
+);
+
+create table PrimaryTerm(
+
+);
+
+create table SecondaryTerm(
+
+);

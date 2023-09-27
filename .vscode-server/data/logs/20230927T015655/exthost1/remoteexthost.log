@@ -1,0 +1,59 @@
+2023-09-27 01:56:56.240 [info] Extension host with pid 34157 started
+2023-09-27 01:56:56.247 [info] Lock '/h/u11/c1/00/aroraa39/.vscode-server/data/User/workspaceStorage/ac5a2fba0b6b108c2168aa0e286f1a95/vscode.lock': Lock acquired.
+2023-09-27 01:56:56.318 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-09-27 01:56:56.348 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-09-27 01:56:56.348 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-09-27 01:56:56.530 [info] Eager extensions activated
+2023-09-27 01:56:56.530 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-09-27 01:56:56.531 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-09-27 01:57:02.825 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2023-09-27 01:57:02.825 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-09-27 01:57:03.161 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-09-27 02:24:06.657 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2023-09-27 02:36:04.060 [error] [ms-python.python] provider FAILED
+2023-09-27 02:36:04.060 [error] TypeError: Cannot read properties of undefined (reading 'data')
+	at /h/u11/c1/00/aroraa39/.vscode-server/extensions/ms-python.vscode-pylance-2023.9.20/dist/extension.bundle.js:1:131837
+	at _0x243be6 (/h/u11/c1/00/aroraa39/.vscode-server/extensions/ms-python.vscode-pylance-2023.9.20/dist/extension.bundle.js:1:143578)
+	at async pe.provideCompletionItems (/h/u11/c1/00/aroraa39/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:110:51158)
+2023-09-27 02:43:24.178 [error] Error: read ECONNRESET
+	at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-09-27 02:43:43.735 [error] [ms-python.python] provider FAILED
+2023-09-27 02:43:43.735 [error] TypeError: Cannot read properties of undefined (reading 'data')
+	at /h/u11/c1/00/aroraa39/.vscode-server/extensions/ms-python.vscode-pylance-2023.9.20/dist/extension.bundle.js:1:131837
+	at _0x243be6 (/h/u11/c1/00/aroraa39/.vscode-server/extensions/ms-python.vscode-pylance-2023.9.20/dist/extension.bundle.js:1:143578)
+	at async pe.provideCompletionItems (/h/u11/c1/00/aroraa39/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:110:51158)
+2023-09-27 02:49:59.407 [error] [ms-python.python] provider FAILED
+2023-09-27 02:49:59.408 [error] TypeError: Cannot read properties of undefined (reading 'data')
+	at /h/u11/c1/00/aroraa39/.vscode-server/extensions/ms-python.vscode-pylance-2023.9.20/dist/extension.bundle.js:1:131837
+	at _0x243be6 (/h/u11/c1/00/aroraa39/.vscode-server/extensions/ms-python.vscode-pylance-2023.9.20/dist/extension.bundle.js:1:143578)
+	at async pe.provideCompletionItems (/h/u11/c1/00/aroraa39/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:110:51158)
+2023-09-27 03:00:56.685 [error] [ms-python.python] provider FAILED
+2023-09-27 03:00:56.685 [error] TypeError: Cannot read properties of undefined (reading 'data')
+	at /h/u11/c1/00/aroraa39/.vscode-server/extensions/ms-python.vscode-pylance-2023.9.20/dist/extension.bundle.js:1:131837
+	at _0x243be6 (/h/u11/c1/00/aroraa39/.vscode-server/extensions/ms-python.vscode-pylance-2023.9.20/dist/extension.bundle.js:1:143578)
+	at async pe.provideCompletionItems (/h/u11/c1/00/aroraa39/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:110:51158)
+2023-09-27 03:04:27.236 [error] Error: read ECONNRESET
+	at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-09-27 03:06:54.112 [error] [ms-python.python] provider FAILED
+2023-09-27 03:06:54.112 [error] TypeError: Cannot read properties of undefined (reading 'data')
+	at /h/u11/c1/00/aroraa39/.vscode-server/extensions/ms-python.vscode-pylance-2023.9.20/dist/extension.bundle.js:1:131837
+	at _0x243be6 (/h/u11/c1/00/aroraa39/.vscode-server/extensions/ms-python.vscode-pylance-2023.9.20/dist/extension.bundle.js:1:143578)
+	at async pe.provideCompletionItems (/h/u11/c1/00/aroraa39/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:110:51158)
+2023-09-27 03:12:13.468 [error] [ms-python.python] provider FAILED
+2023-09-27 03:12:13.468 [error] TypeError: Cannot read properties of undefined (reading 'data')
+	at /h/u11/c1/00/aroraa39/.vscode-server/extensions/ms-python.vscode-pylance-2023.9.20/dist/extension.bundle.js:1:131837
+	at _0x243be6 (/h/u11/c1/00/aroraa39/.vscode-server/extensions/ms-python.vscode-pylance-2023.9.20/dist/extension.bundle.js:1:143578)
+	at async pe.provideCompletionItems (/h/u11/c1/00/aroraa39/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:110:51158)
+2023-09-27 03:25:00.326 [error] [ms-python.python] provider FAILED
+2023-09-27 03:25:00.326 [error] TypeError: Cannot read properties of undefined (reading 'data')
+	at /h/u11/c1/00/aroraa39/.vscode-server/extensions/ms-python.vscode-pylance-2023.9.20/dist/extension.bundle.js:1:131837
+	at _0x243be6 (/h/u11/c1/00/aroraa39/.vscode-server/extensions/ms-python.vscode-pylance-2023.9.20/dist/extension.bundle.js:1:143578)
+	at async pe.provideCompletionItems (/h/u11/c1/00/aroraa39/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:110:51158)
+2023-09-27 03:33:45.982 [error] [ms-python.python] provider FAILED
+2023-09-27 03:33:45.982 [error] TypeError: Cannot read properties of undefined (reading 'data')
+	at /h/u11/c1/00/aroraa39/.vscode-server/extensions/ms-python.vscode-pylance-2023.9.20/dist/extension.bundle.js:1:131837
+	at _0x243be6 (/h/u11/c1/00/aroraa39/.vscode-server/extensions/ms-python.vscode-pylance-2023.9.20/dist/extension.bundle.js:1:143578)
+	at async pe.provideCompletionItems (/h/u11/c1/00/aroraa39/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:110:51158)
+2023-09-27 04:10:53.861 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2023-09-27 04:11:19.886 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2023-09-27 04:11:21.938 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000

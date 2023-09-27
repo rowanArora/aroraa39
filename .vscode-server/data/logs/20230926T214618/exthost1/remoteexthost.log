@@ -1,0 +1,15 @@
+2023-09-26 21:46:19.391 [info] Extension host with pid 21590 started
+2023-09-26 21:46:19.423 [info] Lock '/h/u11/c1/00/aroraa39/.vscode-server/data/User/workspaceStorage/2e8772456cc1d86915221d218bdd1e4f/vscode.lock': Lock acquired.
+2023-09-26 21:46:19.662 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-09-26 21:46:19.755 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-09-26 21:46:19.804 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-09-26 21:46:19.804 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-09-26 21:46:19.952 [info] Eager extensions activated
+2023-09-26 21:46:19.952 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-09-26 21:46:19.952 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-09-26 21:46:20.178 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-09-26 21:46:20.179 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-09-26 22:29:19.562 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2023-09-26 22:41:56.433 [info] Extension host terminating: received terminate message from renderer
+2023-09-26 22:41:56.434 [info] Lock '/h/u11/c1/00/aroraa39/.vscode-server/data/User/workspaceStorage/2e8772456cc1d86915221d218bdd1e4f/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-09-26 22:42:01.444 [info] Extension host with pid 21590 exiting with code 0
